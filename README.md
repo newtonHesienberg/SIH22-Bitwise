@@ -14,7 +14,7 @@ Netaji Subhas University of Technology, Delhi, India
 # Overview
 <img src="https://github.com/newtonHesienberg/SIH22-Bitwise/blob/main/Block%20Diagram.png">
 
-We are building a cost-effective model for automating the process of video metadata generation, which is then used for video classification. The solution comprises of two parts:
+We are building an effective model for automating the process of video metadata generation, which is then used for video classification. The solution comprises of two parts:
 
     1. Deep Learning for metadata generation and classification
     2. Web interface 
